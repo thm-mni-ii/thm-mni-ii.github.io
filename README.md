@@ -1,2 +1,2 @@
-# jpbm04.github.io
+# thm-mni-ii.github.io
 Komponentenupdateseite
